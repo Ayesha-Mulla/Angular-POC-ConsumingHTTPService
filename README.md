@@ -1,4 +1,4 @@
-# Angular-POC-ConsumingTTPService
+# Angular-POC-ConsumingHTTPService
 
 This application makes use of http module of angular and consume services like CRUD
 
